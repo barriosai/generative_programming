@@ -1,6 +1,6 @@
 # Generative Programming Series
 ## Python Programming for Musicians and Audio Engineers
-Generative Programming Series FOR COMPLETE BEGINNERS with Barrios AI @barrios_ai and Jonathan Barrios @ai_data_science. In this series, we'll install Anaconda, set up a Python environment, and start a project using Python—music applications, websites, or even games.
+Generative Programming Series FOR COMPLETE BEGINNERS with Barrios AI @barrios_ai and Jonathan Barrios @ai_data_science. In this series, we'll install Anaconda, set up a Python environment, and start building projects using Python like music apps, websites, or even games.
 
 ## What is Anaconda?
 Anaconda is a Python distribution that comes with Conda, a package manager that helps you create isolated environments for your projects. This is useful when you want to work on multiple projects with different projects using different dependencies keeping things organized and running without errors.
