@@ -1,4 +1,5 @@
-# Generative Programming Series: Python Programming for Musicians and Audio Engineers
+# Generative Programming Series
+## Python Programming for Musicians and Audio Engineers
 Generative Programming Series FOR COMPLETE BEGINNERS with Barrios AI @barrios_ai and Jonathan Barrios @ai_data_science. In this series, we'll install Anaconda, set up a Python environment, and start a project using Python—music applications, websites, or even games.
 
 ## What is Anaconda?
